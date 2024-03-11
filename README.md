@@ -2,11 +2,11 @@
 
 Data Science for Global Manager
 
-#Introduction
+# Introduction
 
 Born in *1999, Hanoi City, Vietnam*.
 
-#Education
+# Education
 **Bachelor Degree:** Nanhua University, Chiayi County, Taiwan
 
   
